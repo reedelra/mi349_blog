@@ -13,17 +13,22 @@ body {
 }
 
 h1 {
+    font-size: 3em;
+    margin: 0;
 
 }
 
 p {
+    line-height: 1.4em;
 
 }
 
 #blog {
+    border-top: 1px dotted #ccc;
 
 }
 
 .blog-post {
+    border-bottom: 1px dotted #ccc;
 
 }
