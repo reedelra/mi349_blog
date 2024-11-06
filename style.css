@@ -3,16 +3,7 @@ html {
 }
 
 body {
-    background-color:aqua
-    font-family: 'Times New Roman', Times, serif;
-    margin: 40px;
-    top: 40px;
-    left: 40px;
-    right: 40px;
-    padding: 10px
-    color: darkblue;
-    border-top: 10px solid #242424;
-    background: #fff;
+    background-color: beige;
 }
 
 h1 {
