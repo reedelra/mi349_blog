@@ -5,6 +5,14 @@ html {
 body {
     background-color: beige;
     font-family: 'Times New Roman', Times, serif;
+    margin: 40px;
+    top: 30px;
+    left: 30px;
+    right: 30;
+    padding: 10px;
+    color: darkslateblue;
+    border-top: 10px solid #242424;
+    background: #fff;
 }
 
 h1 {
