@@ -70,20 +70,3 @@ article:nth-last-of-type(1) {
     flex: 2;
 }
 
-body {
-    min-height: 50em;
-}
-
-.sticky, .postion-demo {
-    color: beige;
-    padding: 20px;
-}
-
-.sticky {
-    background: beige;
-}
-
-.postion-demo {
-    background: beige;
-    position: static;
-}
