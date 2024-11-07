@@ -51,6 +51,8 @@ section {
     background: blanchedalmond;
 }
 
-article:nth-of-type(1) {
-    flex: 2;
+article {
+    background: blanchedalmond;
+    padding: 20px;
+    margin: 20px;
 }
