@@ -70,3 +70,9 @@ article:nth-last-of-type(1) {
     flex: 2;
 }
 
+.sticky {
+    background: burlywood;
+    position: relative;
+    top: 20px;
+    right: 20px;
+}
