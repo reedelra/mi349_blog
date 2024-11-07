@@ -59,7 +59,7 @@ article {
 }
 
 article:nth-of-type(1) {
-    flex: 1;
+    flex: 3;
 }
 
 article:nth-last-of-type(2) {
@@ -67,5 +67,5 @@ article:nth-last-of-type(2) {
 }
 
 article:nth-last-of-type(3) {
-    flex: 1;
+    flex: 3;
 }
