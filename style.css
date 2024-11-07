@@ -72,7 +72,7 @@ article:nth-last-of-type(1) {
 
 .sticky {
     background: burlywood;
-    position: relative;
+    position: absolute;
     top: 20px;
     right: 20px;
 }
