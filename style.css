@@ -62,7 +62,7 @@ article:nth-of-type(2) {
     flex: 3;
 }
 
-article:nth-last-of-type(2) {
+article:nth-last-of-type(3) {
     flex: 3;
 }
 
