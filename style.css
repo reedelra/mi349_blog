@@ -49,6 +49,7 @@ header {
 
 section {
     background: blanchedalmond;
+    display: flex;
 }
 
 article {
