@@ -42,3 +42,7 @@ p {
     float: left;
     margin-left: 10px;
 }
+
+header {
+    background: #222;
+}
