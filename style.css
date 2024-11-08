@@ -36,11 +36,10 @@ p {
 }
 
 .img-container {
-    background: blue;
+    background: cornflowerblue;
     height: 30px;
     width: 30px;
-    float:none
-    
+    float: right
 }
 
 header {
