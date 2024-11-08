@@ -37,6 +37,7 @@ p {
 
 .img-container {
     background: darkgoldenrod;
+    width: 30px;
 }
 
 header {
