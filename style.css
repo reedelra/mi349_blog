@@ -39,8 +39,8 @@ p {
     background: blue;
     height: 30px;
     width: 30px;
-    float: left;
-    margin-bottom: 10px;
+    float:none
+    
 }
 
 header {
